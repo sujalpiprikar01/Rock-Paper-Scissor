@@ -36,7 +36,7 @@ A simple and interactive Rock Paper Scissors game built using HTML, CSS, and Jav
 
 ## 🌐 Live Demo
 
-Add your GitHub Pages live link here.
+[Live Demo.](https://sujalpiprikar01.github.io/Rock-Paper-Scissor/)
 
 ## 👨‍💻 Author
 
